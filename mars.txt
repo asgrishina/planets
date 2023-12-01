@@ -4,3 +4,4 @@ The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 Change at the end of the file
 This is an importnat observation, please make sure it doesn't get deleted
+This line is importnat, but may create a conflict
